@@ -1,0 +1,7 @@
+G:\Xamarin\HammingCode\HammingCode\bin\Debug\HammingCode.exe.config
+G:\Xamarin\HammingCode\HammingCode\bin\Debug\HammingCode.exe
+G:\Xamarin\HammingCode\HammingCode\bin\Debug\HammingCode.pdb
+G:\Xamarin\HammingCode\HammingCode\obj\Debug\HammingCode.csprojAssemblyReference.cache
+G:\Xamarin\HammingCode\HammingCode\obj\Debug\HammingCode.csproj.CoreCompileInputs.cache
+G:\Xamarin\HammingCode\HammingCode\obj\Debug\HammingCode.exe
+G:\Xamarin\HammingCode\HammingCode\obj\Debug\HammingCode.pdb
